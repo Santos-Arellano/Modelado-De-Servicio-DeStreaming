@@ -1,0 +1,28 @@
+20110125;Game of Thrones;Drama;8
+20170120;Dark;Misterio;2
+20160150;Stranger Things;Accion;3
+20170220;La casa de papel;Drama;4
+20151210;Friends;Comedia;8.9
+20180555;Black Mirror;Ciencia ficción;8.8
+20190765;Chernobyl;Drama;9.4
+20191025;The Mandalorian;Aventura;8.7
+20180888;Stranger Things;Suspense;8.9
+20170560;Narcos;Crimen;8.8
+20180490;The Witcher;Fantasía;8.2
+20151230;Sherlock;Misterio;9.1
+20170575;Peaky Blinders;Drama;8.8
+20191120;The Boys;Acción;8.7
+20160980;Breaking Bad;Drama;9.5
+20190123;The Crown;Drama;8.7
+20150455;Better Call Saul;Drama;8.8
+20170430;Mindhunter;Crimen;8.6
+20170890;Westworld;Ciencia ficción;8.7
+20170666;Stranger Things;Aventura;8.7
+20181111;The Haunting of Hill House;Terror;8.6
+20180125;Ozark;Drama;8.4
+20180367;The Handmaid's Tale;Drama;8.4
+20190130;Killing Eve;Drama;8.3
+20171234;Money Heist;Drama;8.3
+20180678;The Umbrella Academy;Acción;8.0
+20180876;Bodyguard;Drama;8.2
+20190234;The Witcher;Acción;8.2

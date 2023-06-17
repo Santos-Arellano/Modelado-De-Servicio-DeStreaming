@@ -1,0 +1,37 @@
+20192345;Ad Astra;2:03;Drama;9.1
+20190750;The Platform;1:34;Drama;7
+20191580;Star Wars: The Rise of Skywalker;2:22;Accion;6.7
+20191245;The Lion King;1:58;Drama;3.2
+20200341;Onward;1:42;Accion;0.6
+20200450;Extraction;1:56;Drama;6.8
+20171580;Beauty and the Beast;2:09;Accion;1
+20211520;Inception;2:28;Ciencia Ficción;8.8
+20180890;Avengers: Infinity War;2:29;Acción;8.5
+20192346;Joker;2:02;Drama;8.5
+20171234;Coco;1:45;Animación;8.4
+20200123;Parasite;2:12;Drama;8.6
+20231567;Mad Max: Fury Road;2:00;Acción;8.1
+20180123;The Shape of Water;2:03;Drama;7.3
+20201111;Knives Out;2:10;Misterio;7.9
+20191324;Gone Girl;2:29;Suspenso;8.1
+20192222;Hereditary;2:07;Terror;7.3
+20211010;Deadpool;1:48;Comedia;8.0
+20190789;Interstellar;2:49;Ciencia Ficción;8.6
+20181515;Harry Potter and the Sorcerer's Stone;2:32;Fantasía;7.6
+20191234;Toy Story 4;1:40;Animación;7.7
+20200202;La La Land;2:08;Musical;8.0
+20200303;David Attenborough: A Life on Our Planet;1:23;Documental;9.0
+20191010;Frozen II;1:43;Infantil;7.1
+20190678;The Notebook;2:03;Romance;7.8
+20241567;Inception;2:28;Acción;8.8
+20180543;The Social Network;2:00;Drama;7.7
+20211001;No Time to Die;2:43;Acción;7.5
+20181717;Get Out;1:44;Suspenso;7.7
+20222222;A Quiet Place;1:30;Terror;7.5
+20201122;Deadpool 2;2:14;Comedia;7.8
+20190222;Avengers: Endgame;3:02;Acción;8.4
+20181313;Coco;1:45;Animación;8.4
+20200101;The Greatest Showman;1:45;Musical;7.6
+20190909;Apollo 11;1:33;Documental;8.2
+20190787;Spider-Man: Into the Spider-Verse;1:57;Animación;10
+20181111;To All the Boys I've Loved Before;1:39;Romance;7.1
