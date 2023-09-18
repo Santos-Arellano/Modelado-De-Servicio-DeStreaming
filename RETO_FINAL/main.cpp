@@ -31,7 +31,7 @@ vector<Serie> cargarSeries()  // Funcion para cargar las series
 {
     vector<Serie> series;
     string str;
-    string file = "Series.txt"; // Se abre el archivo de series
+    string file = "RETO_FINAL/Videos.txt"; // Se abre el archivo de series
     ifstream s(file);
 
     if (s.is_open()) // Si el archivo esta abierto
@@ -63,7 +63,7 @@ vector<Pelicula *> cargarPeliculas() // Funcion para cargar las peliculas
 {
     vector<Pelicula *> peliculas; // Vector de apuntadores a peliculas
     string str;
-    string file1 = "Peliculas.txt";     // Se abre el archivo de peliculas
+    string file1 = "RETO_FINAL/Videos.txt";     // Se abre el archivo de peliculas
     ifstream s1(file1); // Se abre el archivo de peliculas
 
     if (s1.is_open())
@@ -277,7 +277,7 @@ double verificarRango(double calificacion)
 //Funcion para forzar un entero en la entrada de datos del usuario (no acepta letras)
 void modificarArchivoEpisodios(vector<Episodio *> v)
 {
-    ofstream ofs("Episodios.txt", ofstream::trunc);
+    ofstream ofs("RETO_FINAL/Videos.txt", ofstream::trunc);
     for (int i = 0; i < v.size(); i++)
     {
         string str = v[i]->getID() + ";" + v[i]->getIdEpisodio() + ";" + v[i]->getNombre() + ";" + v[i]->getDuracion() + ";" + v[i]->getCalificacion() + ";" + to_string(v[i]->getTemporada()) + "\n";
@@ -289,7 +289,7 @@ void modificarArchivoEpisodios(vector<Episodio *> v)
 // Funcion para modificar el archivo de peliculas
 void modificarArchivoPeliculas(vector<Pelicula *> v)
 {
-    ofstream ofs("Peliculas.txt", ofstream::trunc);
+    ofstream ofs("RETO_FINAL/Videos.txt", ofstream::trunc);
     for (int i = 0; i < v.size(); i++)
     {
         string str = v[i]->getID() + ";" + v[i]->getNombre() + ";" + v[i]->getDuracion() + ";" + v[i]->getGenero() + ";" + v[i]->getCalificacion() + "\n";
