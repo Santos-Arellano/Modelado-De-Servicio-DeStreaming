@@ -1,17 +1,17 @@
 // Santos Alejandro Arellano Olarte A01643742
-#include <iostream>
-#include <vector>
+#include <iostream> // Aqui va el include para que funcione el imprimirConRetardo
+#include <vector>// Aqui va el include para que funcione el cargarSeries
 #include "serie.cpp"
 #include "episodio.cpp"
 #include "video.cpp"
 #include "pelicula.cpp"
-#include <sstream>
-#include <fstream>
-#include <string.h>
-#include <algorithm>
-#include <iostream>
-#include <chrono>
-#include <thread>
+#include <sstream>// Aqui va el include para que funcione el cargarSeries
+#include <fstream>// Aqui va el include para que funcione el cargarSeries
+#include <string.h>// Aqui va el include para que funcione el cargarSeries
+#include <algorithm> // Aqui va el include para que funcione el sort
+#include <iostream>// Aqui va el include para que funcione el retardo
+#include <chrono> // Aqui va el include para que funcione el retardo
+#include <thread> // Aqui va el include para que funcione el retardo
 
 
 #include <limits> // Aqui va el include para que funcione el forzarInt
@@ -85,7 +85,7 @@ vector<Pelicula *> cargarPeliculas() // Funcion para cargar las peliculas
                 line[3],
                 line[4]);
 
-            peliculas.push_back(p);
+            peliculas.push_back(p); // Se agrega la pelicula al vector de peliculas
         }
     }
 
